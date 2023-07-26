@@ -1,0 +1,26 @@
+
+
+* {
+    background-color: rgb(211, 211, 241);
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(54, 67, 114);
+  }
+
+  .product img {
+    width: 200px;
+  }
+  
+
+  img {
+    width: 40px;
+  }
+  
+  .cart{
+    display: flex;
+    color: salmon;
+  }
+  
+
